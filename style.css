@@ -1,0 +1,29 @@
+h1 {
+    background-color: rgb(24, 179, 171); 
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    background-color: rgb(172, 119, 172);
+    text-align: center;
+    
+}
+
+@media only screen and (min-width: 768px) {
+    .wrapper {
+       width: 600px;
+       margin: 0 auto;
+    }
+    h2 {
+       padding: 20px 0px 0px;
+    }
+    p {
+       padding: 20px 0px 0px;
+    }
+    .me {
+       padding-top: 30px;
+    }
+    }
+    
+    
